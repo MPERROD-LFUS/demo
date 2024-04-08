@@ -1,0 +1,7 @@
+# ignore tous les fichiers .class
+*.class
+# à part test.class
+!test.class
+
+# ignore /bdd.properties
+/bdd.properties
